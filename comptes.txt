@@ -1,4 +1,4 @@
-Nom	PrÃ©nom	Groupe	DA	Mail
+Nom	Prenom	Groupe	DCA	Mail
 Angelina	Jolie	1001	1985120	1985120@bdeb.qc.ca
 Brad	Pitt	1001	1985284	1985284@bdeb.qc.ca
 jennifer	Aniston	1001	1985280	1985280@bdeb.qc.ca
@@ -6,5 +6,5 @@ Justin	Theroux	1001	1985246	1985246@bdeb.qc.ca
 Pernell-Karl	Subban	1001	1985299	1985299@bdeb.qc.ca
 Carey	Price	1001	1695666	1695666@bdeb.qc.ca
 Sidney-Patrick	Crosby	1001	1695268	1695268@bdeb.qc.ca
-Sabri	Benferhat	1001	1695572	1695572@bdeb.qc.ca
-Georges	Debay	1001	1985303	1985303@bdeb.qc.ca
+Sonson	Beaudry	1001	1695572	1695572@bdeb.qc.ca
+Gina	Doloresse 1001	1985303	1985303@bdeb.qc.ca
