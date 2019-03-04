@@ -10,3 +10,6 @@ Apres verification de l'existence du groupe, le script va le creer ainsi qu'un d
 Cette commande permet de forcer les utilisateurs a changer de mot de passe apres la premiere connection
 
 Pour chaque utilisateur, on copie le contenu du repertoire </etc/skel> 
+          
+          Le fichier envoieMail.sh sert de fonciton externe permettant d'envoyer un mail a chaque user creee
+          
