@@ -1,10 +1,5 @@
 #!/bin/bash
-# TP1	- 	création de compte utilisateur
-# NOM: 	Kevin Nelson
-# DA:	1769692
-# Prof: Mr Sabri B.
-# Dans le cadre du cours de developpement d'utilitaire de sécurité
-# Date de remise: 28 février 2019
+# Author: 	Kevin Nelson
 
 source envoieMail.sh  # Fonction qui vas permettre l'envoie des informations
 well_ended=0
