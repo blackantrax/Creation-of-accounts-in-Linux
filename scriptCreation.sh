@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: 	Kevin Nelson
+# Author: 	Kev
 
 source envoieMail.sh  # Fonction qui vas permettre l'envoie des informations
 well_ended=0
